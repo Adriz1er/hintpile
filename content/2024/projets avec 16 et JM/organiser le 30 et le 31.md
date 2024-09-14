@@ -1,0 +1,51 @@
+---
+tags: []
+---
+
+## faire le repas pour le 31
+- [x] acheter les ingrédients :  [completion:: 2023-12-30]
+	- pour 12 fleurs de courgette
+		- 2 rouleau [pâte feuilletée](https://cuisine-addict.com/pate-feuilletee-inversee-video/)
+		- 4 [courgettes](https://cuisine-addict.com/ingredient/courgette/)
+		- 200 g fromage de chèvre frais
+		- 4 branches [menthe](https://cuisine-addict.com/ingredient/menthe/)
+		- sel et poivre
+	- pour faire sapins de Noel feuilleté :
+		- 200g pesto ou tapenade
+		- 2 pate feuilleté
+		- 1 oeuf pour dorure
+		- graines de sésame (facultatif)
+	- pour pizza :
+		- pate à pizza
+		- sauce tomate
+		- mozza
+		- jambon champignon
+		- olives
+		- poivrons rouges
+	- oeufs de linp
+	- pain surprise
+	- chips pour aller avec le boacamol
+	- saumon
+	- buches 
+	- nioquis sauce champi ?
+
+- [x] Faire les fleurs de courgettes en apéro  [completion:: 2024-01-01]
+	- [x] la recette 31  [completion:: 2024-01-01]
+- [x] plateau de légume : concombre tomate cerise carotte radis  [completion:: 2024-01-01]
+	- [x] disposer plateau 31  [completion:: 2024-01-01]
+- [x] sauce salsa  [completion:: 2024-01-01]
+	- [x] faire les courses  [completion:: 2024-01-01]
+- [-] sapin de Noel feuilleté
+- [x] toast aux oeufs de lump 31  [completion:: 2024-01-01]
+- [x] toasts saumon  [completion:: 2024-01-01]
+- [x] plateau charcuterie  [completion:: 2024-01-01]
+- [x] une pissaladière  [completion:: 2023-12-30]
+- [-] pain suprise
+- [-] Faire thon mayo
+	- [x] #JM fais la mayo #Adrien  [completion:: 2023-12-30]
+
+- [x] acheter saumon  [completion:: 2023-12-30]
+- [x] nioci sauce champi  [completion:: 2023-12-30]
+- [x] faire le point pour la buche  [completion:: 2023-12-30]
+- [x] mettre table en bas 31  [completion:: 2024-01-01]
+- [x] completer table 31  [completion:: 2023-12-30]

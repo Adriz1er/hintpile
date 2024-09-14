@@ -1,0 +1,10 @@
+- heatmap calendar
+- hover editor
+- longform
+- plugins groups
+- file cleaner
+- *better footnote*
+- Advanced New File : permet de choisir dans quel dossier créer une note avec une commande
+- advanced slides : pour faire des diapos
+- pandoc : permet d'exporter des notes sous différents formats
+- sidebar on hover : permet d'ouvrir le panneau gauche automatiquement
