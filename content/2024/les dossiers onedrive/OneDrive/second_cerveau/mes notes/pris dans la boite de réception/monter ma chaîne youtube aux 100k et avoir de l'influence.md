@@ -1,0 +1,25 @@
+---
+tag:
+  - objectif_de_1_à_3_ans
+---
+- l'idée est de parler à de plus en plus de gens au fur et à mesure que la chaîne grossit
+- [!] #noté faire du clickbait : faire des minitures et des titres de vidéos qui magnifie le contenu
+- [!] #noté faire des bonnes miniatures
+- [x] faire en sorte de pouvoir mettre teleau niveau du bureau pour filmer  [completion:: 2024-01-18]
+- [!] #noté faire beaucoup de vidéos
+- [!] #noté Trouver photo de profil ^80ebb3
+- [!] #noté faire des vidéos agréables
+- [!] #noté faire des shorts sur toutes les plateformes
+- [-] Trouver quel contenu poster stratégiquement 
+- [!] #noté capter l'attention
+	- [?] #noté Vidéo
+	- [ ] #noté chercher
+- [ ] #noté regarder [YouTube](https://youtu.be/15lyO5qmtg0)
+- [-] avoir une bonne rhétorique
+	- [x] regarder vidéos sur Squeezie https://youtu.be/PD6QL68op-Q ✅ 2023-07-08 
+	- [-] regarder vidéos sur le fait d'être cool https://youtu.be/zeT_hwtIejE 
+	- [x] regarder une vidéo sur le fait d'être aimé comme mister v https://youtu.be/3sogsFD98uM [link](https://todoist.com/showTask?id=7110092535) #todoist %%[todoist_id:: 7110092535]%% ✅ 2023-08-21
+- [ ] #noté regarder [cette vidéo YouTube](https://youtube.com/watch?v=LQRuaP2VFfA&si=SrlcpnVB_vQeHsIv) pour mettre en forme une vidéo
+- [!] #noté voir pour faire à terme une bonne vidéo par semaine qui est très bonne
+- [!] #noté faire tuto sur une session invité ou nouvelle sur windows ^a33d18
+- [!] #noté faire en sorte de réunir dans chaque vidéo le rationnel, l'émotionnel et le cadre

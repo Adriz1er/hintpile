@@ -1,0 +1,24 @@
+- On peut choisir entre le mode emoji et le mode dataview. 
+- Quand on crée une tâche sur obsidian : "- [ ]" (avant de faire à la ligne) le plugin nous propose les options pour tâche (au niveau de là où on écrit). On peut aussi avoir une fenêtre à part entière pour créer une tâche (en faisant ctrl+p et en cherchant Task (ce qui correspond au plugin task)). 
+- Les options sont : 
+	- description (qui est la même chose que le titre)
+	- priorité (basse, normale, moyenne, haute)
+	- récurrence de la tâche
+	- date d'échéance
+	- date de planification
+	- date de départ
+	- si on affiche ou pas la tâche si une des dates est passé
+	- le status qui peut être pas fait ou fait (si coché) ; si la tâche est faite on peut voir la date à laquelle on a coché la tâche
+- on peut afficher les tâches avec un bloc de code en filtrant (ça affiche toutes les options, si la tâche est effectuée ou pas, le lien du fichier dans lequel la tâche est - donc le projet ^[[[à propos du plugin tasks#^44dfe5]]], le tag ou l'étiquette ou le libellé (ce qu'on fait en faisant ça #tag  par exemple avec le mot tag), et un bouton pour éditer l'état de la tâche avec la fenêtre à part entière)
+	- on filtre de la même manière qu'avec le plugin dataview dans le bloc de code il me semble
+	- on met "not done" dans le bloc de code pour afficher seulement les tâches non-terminées
+	- on peut masquer les sous-tâches en écrivant "exclude sub-items"
+	- il existe beaucoup de filtres qu'on peut retrouver dans la [documentation](https://publish.obsidian.md/tasks/Queries/Filters). Il y a l'air d'y avoir tout sauf les métadonnées.
+	- On peut utiliser "OR" pour dire ou, et "AND" pour dire et (à la fois ça et ça)
+		- pour ne mettre que les tâches qui ont une date on peut mettre "(...) AND (has happens date)"
+	- on peut aussi grouper "group by" ce qui donne quelque chose de ce type 
+- marche avec le plugin reminder pour avoir des rappels
+- marche avec le plugin checklist mais à voir pour la pertinence
+- on peut faire une note par projet, et donc un sous-projet est un lien dans un projet ^44dfe5
+	- cela implique que pour afficher ses projets on ne pourra pas utiliser le "bloc de code", mais je pense que c'est pas une mauvaise chose parce qu'on peut pas cosidérer les projets comme des tâches
+- il existe différents status ^[[Statuses - Tasks User Guide - Obsidian Publish](https://publish.obsidian.md/tasks/Getting+Started/Statuses)]
