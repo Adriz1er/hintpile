@@ -1,3 +1,6 @@
+---
+date: 2024-08-24
+---
 
 # faire synchronisation disque dur
 - [X] brancher disque dur et ouvrir syncthing y compris page web pour voir si c'est terminé  [repeat:: every week when done]  [start:: 2024-05-01]  [completion:: 2024-05-12] 🔒 2024-06-28 🕸️ [[synchroniser les photos sur le disque dur et maintenir activer le fait d'avoir plus de ram sur téléphone#faire synchronisation disque dur]]

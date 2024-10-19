@@ -1,5 +1,6 @@
 ---
-tag:
+tag: 
+date: 2024-08-19
 ---
 Pour passer de binaire à base de 10 : à chaque colonne vers la gauche on ajoute $1$ à la puissance de $2$ et on part de $0$
 Pour passer de base $10$ à binaire on peut diviser par $2$ puis diviser par $2$ le quotient etc... jusqu'à ce que ce soit impossible. Une méthode plus pratique on peut faire un tableau avec chaque colonne associée à une puissance de deux qu'on peut retirer.

@@ -1,3 +1,6 @@
+---
+date: 2024-09-06
+---
 
 
 c'est généralement le moment de vider ce qu'on a dans la tête, et pas de pitié avec ceux qui ne sont pas dans cette boîte de réception.

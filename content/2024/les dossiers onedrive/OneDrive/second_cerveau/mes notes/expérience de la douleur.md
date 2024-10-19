@@ -1,5 +1,6 @@
 ---
 MOC: []
+date: 2024-08-26
 ---
 difficulté à énoncer : Karrer "ce que je raconte à l'air horrible bien plus que ce que je raconte"
 l'humanité cherche systématiquement à s'en protéger

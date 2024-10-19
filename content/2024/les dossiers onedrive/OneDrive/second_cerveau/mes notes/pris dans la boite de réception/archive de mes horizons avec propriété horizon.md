@@ -1,3 +1,6 @@
+---
+date: 2024-08-24
+---
 ## intérêts et responsabilités
 ```dataview
 list

@@ -1,3 +1,6 @@
+---
+date: 2024-08-19
+---
 problèmes à gérer lors de l'installation du template : 
 - mettre en place le calendrier uniquement sur ordi ^[[[clarifier ses intrants pour passer à la réalité#l'agenda sur obsidian]]]
 - mettre en place todoist ultimate ^[[[assumer efficacement ses engagements internes avec GTD]]]

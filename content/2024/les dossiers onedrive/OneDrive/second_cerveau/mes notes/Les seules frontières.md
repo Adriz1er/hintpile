@@ -1,3 +1,6 @@
+---
+date: 2024-08-26
+---
 Aujourd'hui on a l'impression que les seules frontières sont les frontières
 Ensuite on remarque qu'on devrait à l'avenir considérer les virus comme frontière pertinente. C'est pertinent un peu comme considérer la frontière entre les bons et les mauvais élèves ; autant dire que ça dépend de la position de l'état, autant dire qu'il faudrait les remettre en question. Ces frontières en dépendent d'une autre : ceux qui ont changé les choses, et ceux qui ont rien changé ; et parmi ceux qui ont changé les choses il y a ceux qui ont changé les choses en améliorant les choses ou pas ; et ceux qui ont changé les choses en les améliorant il y a ceux qui ont vraiment améliorer les choses.
 

@@ -1,3 +1,6 @@
+---
+date: 2024-08-26
+---
 
 aspiration: construire développer et entretenir son réseau relationnel [connaître les outils permettant de s'insérer professionnellement]
 

@@ -1,5 +1,6 @@
 ---
 tags: []
+date: 2024-08-19
 ---
 - [x] chercher 3 métiers que je pourrais faire  [completion:: 2023-12-16]
 	- [x] voir pour dire d'être entrepreneur  [completion:: 2023-12-16]

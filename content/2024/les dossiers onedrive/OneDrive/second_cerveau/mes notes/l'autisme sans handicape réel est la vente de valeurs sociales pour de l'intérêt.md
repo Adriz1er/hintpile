@@ -1,12 +1,11 @@
 ---
-# Metadata used for sync
-id: "4ce815c0-6136-11ed-af9f-1d6c5ca4b479"
-title: "l'autisme sans handicape réel est la vente de valeurs sociales pour de l'intérêt"
-# Extracts all tags in content into the metadata
+id: 4ce815c0-6136-11ed-af9f-1d6c5ca4b479
+title: l'autisme sans handicape réel est la vente de valeurs sociales pour de l'intérêt
 tags: []
 source: ""
-created_date: "2022-11-10"
-modified_date: "2022-11-15"
+created_date: 2022-11-10
+modified_date: 2022-11-15
+date: 2024-08-19
 ---
 #🌱   [[psychologie]]
 

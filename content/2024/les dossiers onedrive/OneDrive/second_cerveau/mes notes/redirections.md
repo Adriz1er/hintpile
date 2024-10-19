@@ -1,5 +1,6 @@
 ---
 tag: 
+date: 2024-08-19
 ---
 ## interactions utilisateur-ordinateur
 entrée standard : clavier

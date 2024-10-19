@@ -1,3 +1,6 @@
+---
+date: 2024-09-06
+---
 
 ```tasks
 tag does not include #noté 

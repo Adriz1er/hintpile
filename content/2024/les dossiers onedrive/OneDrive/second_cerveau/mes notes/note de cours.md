@@ -1,3 +1,6 @@
+---
+date: 2024-08-19
+---
 #🌱 [[problèmes auxquels l'éducation nationale se doit de faire face]]
 ___
 Une note se doit de se rapprocher le plus *possible* d'une [[note persistante]] :

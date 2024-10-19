@@ -1,7 +1,6 @@
 ---
-
 database-plugin: basic
-
+date: 2024-08-24
 ---
 
 ```yaml:dbfolder

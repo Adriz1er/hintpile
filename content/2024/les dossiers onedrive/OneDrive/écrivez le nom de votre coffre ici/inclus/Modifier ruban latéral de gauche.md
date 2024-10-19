@@ -3,7 +3,8 @@ auteur: Samuel
 aspiration: 
 tag:
   - concept
-cards-deck:
+cards-deck: 
+date: 2024-08-26
 ---
 
 Le ruban latéral de gauche se modifie grace à un extrait CSS (sans le CSS, avec les nouvelles commandes et maj tout bouge). Pour accéder à cet extrait CSS il faut aller dans Paramètre => Apparence => Extrait CSS puis cliquer sur l'icone dossier et ouvrir "Ruban lateral gauche.css".

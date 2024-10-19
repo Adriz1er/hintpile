@@ -2,7 +2,8 @@
 aspiration: 
 tag:
   - concept
-cards-deck:
+cards-deck: 
+date: 2024-08-19
 ---
 - beaucoup de vidéos sur la chaine [Theory and Philosphy](https://www.youtube.com/@TheoryPhilosophy/videos), notamment les plus anciennes, ainsi qu'une [playlist](https://youtube.com/playlist?list=PLWp2B7872lfdLq-N4tanKKRjQVGmsTq1S&si=TcY9PpP5s8vZ8qNV)
 - [Avant d'accéder à YouTube](https://youtube.com/playlist?list=PLF0F40A6D83FF31E4&si=8SOq8sczml-1WHaP)

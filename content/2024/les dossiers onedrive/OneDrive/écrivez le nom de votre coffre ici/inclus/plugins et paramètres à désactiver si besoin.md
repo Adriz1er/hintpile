@@ -1,5 +1,6 @@
 ---
 aspiration: []
+date: 2024-08-26
 ---
 Je recommande de désactiver les plugins suivant régulièrement avec quick switcher ^[[[plugins et paramètres à désactiver si besoin#^baa814]]] :
 - *checklist* : permet d'afficher des actions en fonction des appareils ; ne sera plus nécessaire dans le futur et remplacé par un favoris ^c2a3ec

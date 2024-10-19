@@ -1,6 +1,7 @@
 ---
-matière:: 
-chapitre:: 
+"matière:": 
+"chapitre:": 
+date: 2024-08-26
 ---
 #excalibrain/🚧 
 

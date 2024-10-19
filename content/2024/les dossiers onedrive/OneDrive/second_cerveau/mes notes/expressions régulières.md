@@ -1,5 +1,6 @@
 ---
 aspiration: []
+date: 2024-08-26
 ---
 Pour analyser et traiter du texte de façon très rapide
 - vérification de données

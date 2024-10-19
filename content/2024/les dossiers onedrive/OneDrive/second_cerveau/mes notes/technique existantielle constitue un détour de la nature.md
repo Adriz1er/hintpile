@@ -1,6 +1,7 @@
 ---
 "matière:": philo
 "chapitre:": compatibilité développement technique et le respect de la nature
+date: 2024-08-26
 ---
 #excalibrain 
 ___

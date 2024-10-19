@@ -1,3 +1,6 @@
+---
+date: 2024-08-26
+---
 > [!info]+ métadonnées
 >MOC:: "[[la méthode GTD]]"
 

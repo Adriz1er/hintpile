@@ -1,3 +1,6 @@
+---
+date: 2024-08-29
+---
 Le principe est de ***capturer*** **==tout==** ce qui n'est pas à ça place et donc ce qui nous *passe par la* ***tête*** ^[[[clarifier les boucles ouvertes]]].
 - la boite de réception se doit de **stocker** (et pas de remettre ce qui n'est pas à ça place dedans ^[[[révision périodique hebdomadaire est essentielle dans la méthode GTD]]]) - de stocker ce qui nous ***intéresse*** sinon peu de chances qu'on n'y aurait *pensé*... ; cela signifie que la boite de réception doit être traitée à court terme (en utilisant la [[la règle des deux minutes]]). 
 	- Le fait est que nos problèmes et opportunités en cours sont une véritable "*mine d'or*".

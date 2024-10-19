@@ -1,3 +1,6 @@
+---
+date: 2024-08-26
+---
 
 1. télécharger [Syncthing](https://syncthing.net/downloads/) sur les appareils sur lesquels vous voulez avoir la synchronisation ![[les dossiers onedrive/OneDrive/second_cerveau/image.png|600]]
 2. synchroniser plusieurs appareils

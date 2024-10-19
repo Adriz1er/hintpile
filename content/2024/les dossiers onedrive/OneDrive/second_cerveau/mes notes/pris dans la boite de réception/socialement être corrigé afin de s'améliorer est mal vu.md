@@ -2,6 +2,7 @@
 date de création: 2023-06-02 08:45
 date de modification: 2023-06-02 08:45
 tag: ""
+date: 2024-08-19
 ---
 semble venir de valeurs empathiques trop prédominantes dans la société
 

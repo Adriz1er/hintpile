@@ -1,3 +1,6 @@
+---
+date: 2024-08-26
+---
 Puisque l'on doit déjà [[clarifier ses intrants pour passer à la réalité]], alors on ne peut pas ne pas se permettre de mettre à jour les listes ; et donc *logiquement* il faut faire une **révision périodique** de *tout* le système ; de sorte à ce qu'on passe **tout en revue** et que l'on puisse ***manoeuvrer*** (autrement dit car cela décharge l'esprit (donc "pas de pitié !")). 
 
 Concrètement puisque la [[gestion de l'action suivante doit se faire par la clarté]] :

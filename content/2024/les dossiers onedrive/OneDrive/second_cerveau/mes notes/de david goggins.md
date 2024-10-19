@@ -1,3 +1,6 @@
+---
+date: 2024-08-19
+---
 [L'ART DE MAÎTRISER SON ESPRIT POUR RÉUSSIR SA VIE | David Goggins - YouTube](https://youtu.be/DJXIMhJ_V28)
 - garder son esprit par l'habitude
 - être auto-discipliné permet de réaliser son potentiel

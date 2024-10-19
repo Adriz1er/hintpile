@@ -1,3 +1,6 @@
+---
+date: 2024-08-26
+---
 on vit puisqu'on aime, mais moi j'aime ce que je me répète
 peut-être que mon but est de suivre mes propres répétitions, mon propre chemin, mes propres recherches
 séduit je suis ma propre partition, je m'enracine d'erreur et je m'engouffre en suivant mes pertes

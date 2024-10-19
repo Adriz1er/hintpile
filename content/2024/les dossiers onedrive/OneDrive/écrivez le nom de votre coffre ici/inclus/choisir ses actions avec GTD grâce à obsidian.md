@@ -1,3 +1,6 @@
+---
+date: 2024-08-26
+---
 Le fait est que [[saisir ce qui est nouveau dans une boite de reception avec GTD]] et le fait que la [[révision périodique hebdomadaire est essentielle dans la méthode GTD]] permet de choisir "convenablement" ses actions ^[[[gestion de l'action suivante doit se faire par la clarté]]] ; le fait est que si un *imprévu* se produit on sera *au minimum 4 fois* plus **serein** en pratiquant GTD ^[[[la méthode GTD]]].
 Évidement de manière générale cela n'enlève rien à la valeur de nos choix sur notre vie.
 # horizons

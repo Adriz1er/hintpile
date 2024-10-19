@@ -2,6 +2,7 @@
 enableLinks: true
 MOC:
   - "[[psychologie]]"
+date: 2024-08-19
 ---
 L'autisme est un *trouble neuro-***développemental** (donc qui existe toujours si il y a des individus non-autistes) *caractérisé* par le fait qu'[[personne avec autisme maximise ces centres d'intérêts spécifiques]]. 
 Mais aussi *caractérisé* par le fait qu'[[personne avec autisme ne comprend pas le lien social mais plutôt son centre d'intérêt]]

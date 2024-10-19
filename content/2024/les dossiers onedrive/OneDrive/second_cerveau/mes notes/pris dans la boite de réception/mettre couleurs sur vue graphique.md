@@ -2,6 +2,7 @@
 date de création: 2023-06-05 18:14
 date de modification: 2023-06-05 18:14
 tag: ""
+date: 2024-08-19
 ---
 - [x] mettre ✅ pour les projets en bleu bien foncé #tablette ✅ 2023-06-06 [link](https://todoist.com/showTask?id=7110091833) #todoist %%[todoist_id:: 7110091833]%%
 - [ ] mettre ✅ pour les projets en bleu bien foncé #téléphone  [link](https://todoist.com/showTask?id=7110091870) #todoist %%[todoist_id:: 7110091870]%%

@@ -1,6 +1,7 @@
 ---
 enableLinks: true
 auteur: Joëlle Zask
+date: 2024-08-19
 ---
 Occupy désigne un sens d'occuper - parce que l'on peut jouer sur le sens du mot.
 On a vu pendant la crise des gilets jaunes un sens du mot *occuper* (notamment avec les ronds-points) ; occuper désigne dans ce cas que l'on s'est approprié un *espace*, et que par conséquent on l'occupe à préserver la **nature initiale** (exemple du jardin :  même si l'on fait des erreurs si l'on s'occupe d'un jardin on va préserver sa nature initiale). Le fait est qu'en ce sens "*occuper*" est à la fois "s'occuper" (au sens de l'occupation) et "s'occuper de" (au sens de prendre soin).

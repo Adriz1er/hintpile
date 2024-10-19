@@ -1,3 +1,6 @@
+---
+date: 2024-08-19
+---
 Les activités humaines ont augmenté la concentration de certains gaz à effet de serre dans l'atmosphère, ce qui entraîne un renforcement de cet effet. Les conséquences découlant directement ou indirectement de l'effet de serre sont les suivantes : ^4fa0ef
 1. Réchauffement climatique : 
 2. Fonte des glaciers et des calottes glaciaires

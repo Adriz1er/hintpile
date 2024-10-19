@@ -1,3 +1,6 @@
+---
+date: 2024-08-19
+---
 - [x] faire un sondage où les propositions s'accumulent  [completion:: 2023-11-04]
 	-  demander pour rajouter les propositions le mercredi après-midi
 	-  on pourra voter le vendredi après-midi

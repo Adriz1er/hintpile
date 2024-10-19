@@ -1,3 +1,6 @@
+---
+date: 2024-08-19
+---
 L'insight ressemble beaucoup à l'intuition, il est le résultat d'idées incubées
 
 ---

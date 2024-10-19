@@ -1,5 +1,6 @@
 ---
 tag: ""
+date: 2024-08-26
 ---
 - [x] vérification ? avec " - [?]" [link](https://todoist.com/showTask?id=7110091154) #todoist %%[todoist_id:: 7110091154]%%
 

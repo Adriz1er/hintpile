@@ -1,5 +1,6 @@
 ---
 tag: ""
+date: 2024-08-19
 ---
 - [x] regarder la vidéo de nicole von der hoeven  [completion:: 2023-10-08]
 - [x] semble y avoir bien tout  [completion:: 2023-10-08]

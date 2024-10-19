@@ -1,3 +1,6 @@
+---
+date: 2024-08-19
+---
 #🌱 
 ___
 Comme [[Les notes persistantes doivent être atomique]] on peut les modifier facilement

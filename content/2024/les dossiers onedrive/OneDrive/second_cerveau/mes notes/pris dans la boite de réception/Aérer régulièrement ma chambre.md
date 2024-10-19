@@ -1,5 +1,6 @@
 ---
 tag: ""
+date: 2024-08-19
 ---
 - [ ] ouvrir fenêtre le matin | chaque jour
 ## chaque midi où je suis à la maison

@@ -1,5 +1,6 @@
 ---
 MOC: []
+date: 2024-08-26
 ---
 À l'école on ne fait que reformuler ce que dit le professeur -donc autrement dit sans prendre en compte la morale n'importe quelle information qui est dans le programme - donc Puisqu'il y a de l'utilitarisme alors l'éducation national n'arrive pas à utiliser la pensée divergente
 

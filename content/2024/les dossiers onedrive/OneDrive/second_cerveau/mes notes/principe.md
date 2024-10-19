@@ -1,3 +1,6 @@
+---
+date: 2024-08-19
+---
 [[philosophie]]
 ___
 Ce mot a de multiples utilisations

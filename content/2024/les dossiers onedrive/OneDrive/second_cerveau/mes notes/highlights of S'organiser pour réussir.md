@@ -1,5 +1,6 @@
 ---
 tag: GTD
+date: 2024-08-19
 ---
 # S'organiser pour réussir
 

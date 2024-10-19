@@ -1,6 +1,7 @@
 ---
 enableLinks: false
 tag: ""
+date: 2024-08-19
 ---
 # Contexte
 Le contexte est celui de différents points de vues qui rendent plus ou moins **incompatible** *écologie et démocratie* (notamment dans le cas de [[Occupy]] ^[[[Occupy#^cabd2a]]]).

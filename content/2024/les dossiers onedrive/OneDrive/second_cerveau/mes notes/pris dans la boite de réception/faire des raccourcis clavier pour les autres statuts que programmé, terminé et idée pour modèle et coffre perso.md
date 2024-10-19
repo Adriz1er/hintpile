@@ -1,6 +1,7 @@
 ---
 tags: []
 énergie requise: moyenne
+date: 2024-08-19
 ---
 - [!] activer les commandes TC dans toutes les config
 

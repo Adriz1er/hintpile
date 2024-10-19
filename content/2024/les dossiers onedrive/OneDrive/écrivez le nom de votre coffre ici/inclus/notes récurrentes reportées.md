@@ -1,3 +1,6 @@
+---
+date: 2024-08-26
+---
 ```button
 name Revoir les projets récurrents
 type command

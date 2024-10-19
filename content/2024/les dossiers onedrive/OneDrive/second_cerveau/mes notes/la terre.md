@@ -1,3 +1,6 @@
+---
+date: 2024-08-26
+---
 tout point d'un circuit électrique est associé à un potentiel électrique mesuré en volts.
 La terre est au potentiel 0V
 

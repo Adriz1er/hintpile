@@ -1,5 +1,6 @@
 ---
 aspiration: []
+date: 2024-08-26
 ---
 représentation graphique de l'enchainement des opérations et des décisions ; utilisation de symboles normalisés
 

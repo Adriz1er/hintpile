@@ -3,6 +3,7 @@ tags: []
 échéance: 2024-03-18
 priorité: 0
 énergie: 0
+date: 2024-08-19
 ---
 
 - [X] voir pour utiliser plugin review  sachant que aperçu des headings se fait avec le titre  [completion:: 2024-03-16]

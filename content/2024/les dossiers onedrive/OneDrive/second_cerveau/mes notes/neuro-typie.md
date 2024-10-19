@@ -1,10 +1,4 @@
 ---
-MOC:
-  - "[[psychologie]]"
+date: 2024-09-28
 ---
-
-- Sachant que chaque personne à son *propre* [[développement psycho-affectif]] alors
-- c'est pourquoi on ne peut pas dire que les gens *normaux* soient **justes** *normaux*.
-- ont tous comme idéologie l'[[utilitarisme]] ou une idée en extension de celle-ci (comme le wokisme )
-	- utilise ***l'empathie*** comme moyen de savoir quel est le niveau de *plaisir*.
-- Une personne avec neuro-typie a une tendance inégalitaire (voir [[L'utilitarisme provoque l'inégalité à cause des émotions]])
+J'ai l'intuition que chaque personne a son *propre* [[développement psycho-affectif]] alors et que c'est pourquoi on ne peut pas dire que les gens *normaux* soient **justes** *normaux*.

@@ -1,6 +1,7 @@
 ---
 enableLinks: true
 auteur: Joëlle Zask
+date: 2024-08-19
 ---
 Le fait d'être écologique sous-entend accepter la science des écosystèmes et accepter le mouvement politique visant à défendre la préservation des équilibres naturels, qui est relativement récent surtout face à l'histoire qui a accompagné et accompagne encore la démocratie. Il faut alors explorer certains aspects ^[[[Occupy#^cabd2a]]] et l'histoire de la démocratie ; car la démocratie n'est pas une idée théorique couchée sur le papier, et a été grandement impactée par l'apparition "*aléatoires*" d'opportunités. 
 

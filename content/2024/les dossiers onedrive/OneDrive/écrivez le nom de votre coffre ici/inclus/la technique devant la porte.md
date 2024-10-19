@@ -1,3 +1,6 @@
+---
+date: 2024-08-26
+---
 > [!info]+ métadonnées
 >MOC:: méga guide pour utiliser obsidian comme son second cerveau.pdf
 >>[!note]+ référence

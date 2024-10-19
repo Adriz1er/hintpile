@@ -1,5 +1,6 @@
 ---
-tag:
+tag: 
+date: 2024-08-19
 ---
 évaluation d'une commande en 2 phases : 
 commande = évaluation + execution

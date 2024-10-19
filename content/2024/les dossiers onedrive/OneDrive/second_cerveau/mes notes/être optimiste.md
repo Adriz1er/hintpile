@@ -1,3 +1,6 @@
+---
+date: 2024-08-26
+---
 
 ___
 1. Apprendre tout le temps des choses sur le sujet qui nous intéresse

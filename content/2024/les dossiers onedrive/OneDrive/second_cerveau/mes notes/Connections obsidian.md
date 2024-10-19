@@ -1,3 +1,6 @@
+---
+date: 2024-08-26
+---
  #⚙️ 
 ____
 Les liens sur obsidian peuvent se faire de différentes manière :

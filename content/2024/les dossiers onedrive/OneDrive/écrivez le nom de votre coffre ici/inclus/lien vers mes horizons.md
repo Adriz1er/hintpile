@@ -1,3 +1,6 @@
+---
+date: 2024-08-26
+---
 ```button
 name Afficher les signets
 type command

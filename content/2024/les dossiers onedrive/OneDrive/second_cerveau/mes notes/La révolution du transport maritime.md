@@ -1,3 +1,6 @@
+---
+date: 2024-08-26
+---
 
 Le transport maritime connait une véritable révolution. On assiste à une *spécialisation* des navires (sur les pétroliers, gaziers, porte conteneur, navire de croisière etc...). On constate des navires de *plus en plus grand* pour faire des **économies d'échelle** pour baisser le *coût du transport et ça durée* (exemple : la révolution du *porte conteneur* (un conteneur peut transporter 20.000 conteneurs)) ; le porte-conteneur est symbole de mondialisation car le coût est faible et on peut alors profiter de **production** *partout* dans le *monde* et augmenter la *rentabilité*. 
 - Nouvelle norme environnementale :: économie d'échelle (cout de fonctionnement (personnel avec informatique)), efficacité energétique

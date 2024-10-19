@@ -1,3 +1,6 @@
+---
+date: 2024-08-19
+---
 $$\text{ligne }i\begin{pmatrix} & a_{i,j} &  \\
  & \end{pmatrix}\text{colonne }j$$ où $a_{i,j}= \text{nombres d'arrêtes}$
 ## théorème

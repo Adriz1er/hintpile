@@ -1,3 +1,6 @@
+---
+date: 2024-08-19
+---
 
 La connaissance nécessite d'être *intégré*  ^5d43e0
 (voir [[boussole de zettelkasten]]), et pas de s'ajouter comme si on ajoutait une couche de crème sur la pâte d'un gateau. Mais dans cette mauvaise situation on ne peut ajouter que ce qui est conforme sinon ça n'aurait pas de sens *moral* ; et donc cela **détériore** la ==confiance en soi==.

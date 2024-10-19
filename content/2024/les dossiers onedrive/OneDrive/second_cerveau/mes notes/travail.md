@@ -1,6 +1,7 @@
 ---
 MOC:
   - "[[philosophie]]"
+date: 2024-08-19
 ---
 Le travail est de transformer une matière en vue d'une oeuvre - faire un effort pour un résultat.
 On peut alors distinguer le travail du "faire" (la poesis), et ce qui vise le bonheur de l'homme (la praxis)

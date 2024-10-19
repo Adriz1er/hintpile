@@ -1,8 +1,9 @@
 ---
-tags:
+tags: 
 échéance: 2024-06-06
 énergie: 0
 priorité: 3
+date: 2024-09-02
 ---
 - [X] vérifier phrasé et nuance et jouer doux quand c'est fort après et marqué quand c'est doux après sur les deux morceaux  [start:: 2024-05-17]  [completion:: 2024-05-17]
 ## jouer le Nussio

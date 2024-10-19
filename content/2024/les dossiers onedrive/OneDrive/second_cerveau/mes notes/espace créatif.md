@@ -1,5 +1,6 @@
 ---
 dg-publish: true
+date: 2024-08-19
 ---
 C'est passer d'une idée produite par la [[pensée divergente]] à une [[pensée convergente]] 
 Alors on peut voir un *espace créatif* est présent lors des tâches suivantes : 

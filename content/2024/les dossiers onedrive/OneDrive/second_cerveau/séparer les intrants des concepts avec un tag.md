@@ -1,3 +1,6 @@
+---
+date: 2024-08-26
+---
 
 - [-] mettre tag dans modèle 
 - [x] synchroniser propriétés du template avec tag ✅ 2023-05-24 [link](https://todoist.com/showTask?id=7110090040) #todoist %%[todoist_id:: 7110090040]%%

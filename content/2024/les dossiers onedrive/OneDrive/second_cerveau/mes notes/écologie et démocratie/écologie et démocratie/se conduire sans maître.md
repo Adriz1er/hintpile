@@ -1,6 +1,7 @@
 ---
 enableLinks: true
 auteur: Joëlle Zask
+date: 2024-08-26
 ---
 
 Les habitudes démocratiques sont variables, et relèvent d'un principe "suffisamment général pour s'appliquer à toute situation" ; ce principe est à la fois *politique*, *éthique*, et *social* : celui de l'**auto-gouvernement** ; c'est là où les deux principes qui basent la démocratie se mélangent et sont basés parfaitement entre eux ^[[[la démocratie comme méthode écologique#^d1d10f]]] (exemple des enfants qui jouent à un jeu en fixant leurs propres règles ; exemple du wikipedia francophone) qui sont la *politique* et le *mode de vie*

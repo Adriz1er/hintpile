@@ -1,5 +1,6 @@
 ---
 dg-publish: true
+date: 2024-08-26
 ---
 #🌲   [[adaptation de la pression des cours de l'éducation national]]
 

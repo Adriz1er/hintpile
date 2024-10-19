@@ -2,6 +2,7 @@
 aspiration: 
 tag:
   - concept
+date: 2024-08-19
 ---
 ```tasks
 tag does not include #noté 

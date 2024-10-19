@@ -1,3 +1,6 @@
+---
+date: 2024-08-19
+---
 
 Le Task batching c'est quand vous groupez des tâches **similaires** (souvent plus *petites*) ensemble et qu'elles sont précisément planifiés en **un** bloc de temps. Puisque vous avez *bloqué* plusieurs tâches dans un groupe, vous devrez **limiter** le ==contexte== *à travers* les jours, ce que sauvera du *temps précieux* et de l'*énergie mentale*. 
 

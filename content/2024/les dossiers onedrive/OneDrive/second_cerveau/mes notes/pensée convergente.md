@@ -2,6 +2,7 @@
 dg-publish: true
 MOC:
   - "[[psychologie]]"
+date: 2024-08-19
 ---
 Capacité à user de connaissances **nécessaires** avec **rationalité** pour trouver précisément une *meilleure* solution par rapport à quelque chose de **précis** (voir aussi [[Les notes persistantes doivent être atomique]]).
 Par exemple : l'amélioration qu'on puisse trouver à *une [[note persistante]]*.

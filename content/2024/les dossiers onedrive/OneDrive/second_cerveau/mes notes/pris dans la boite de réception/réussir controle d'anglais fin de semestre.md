@@ -1,8 +1,9 @@
 ---
-tags:
+tags: 
 échéance: 2024-09-01
 priorité: 1
 énergie: 0
+date: 2024-09-14
 ---
 - [X] mettre prepositions anglais du papier sur obsidian et puis sur anki  [completion:: 2024-08-30]
 - [X] en grammaire : le passif (voir le travail fait en TD et en TP), le style indirect, l'utilisation du superlatif + present perfect (ex. This is the best film I have ever seen), constructions verbales, prépositions et quantification, le "third conditional" (ex. None of this would have happened if I hadn't been fired from Apple).  Rappel : il y a en anglais trois superlatifs irréguliers et des verbes irréguliers : on s'en rappelle et on révise si on a oublié :)  [completion:: 2024-08-30]

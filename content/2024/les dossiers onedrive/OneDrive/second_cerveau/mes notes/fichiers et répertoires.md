@@ -1,5 +1,6 @@
 ---
-tag:
+tag: 
+date: 2024-08-19
 ---
 `-` sert pour les fichiers
 `.` sert pour les dossiers

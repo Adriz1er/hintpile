@@ -1,5 +1,6 @@
 ---
 tags: []
+date: 2024-09-01
 ---
 1. télécharger [Syncthing](https://syncthing.net/downloads/) sur les appareils sur lesquels vous voulez avoir la synchronisation ![[les dossiers onedrive/OneDrive/écrivez le nom de votre coffre ici/inclus/image.png|600]]
 2. synchroniser plusieurs appareils

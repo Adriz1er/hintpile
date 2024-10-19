@@ -1,3 +1,6 @@
+---
+date: 2024-08-26
+---
 
 ___
 # L'expression de la cause de la conséquence et du but

@@ -1,3 +1,6 @@
+---
+date: 2024-08-26
+---
 
 ```tasks
 (is recurring) AND (starts before today) AND (has start date)

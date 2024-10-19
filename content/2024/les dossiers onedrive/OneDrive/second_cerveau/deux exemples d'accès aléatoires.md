@@ -1,5 +1,6 @@
 ---
 aspiration: []
+date: 2024-08-19
 ---
 ## ALOHA slotté
 hypothèses :

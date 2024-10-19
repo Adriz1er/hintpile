@@ -1,8 +1,9 @@
 ---
-tags:
+tags: 
 échéance: 
 priorité: -1
 énergie: 0
+date: 2024-08-24
 ---
 pour téléphone et ordi en désactivant les plugins les moins utiles pour faire une sorte de mode éco et différer démarrage de certains pour réduire temps de démarrage d'obsidian
 ### mode éco

@@ -1,5 +1,6 @@
 ---
 dg-publish: true
+date: 2024-08-26
 ---
 On peut voir qu'en **mathématiques** on a des concepts, et que à l'école on les organise par *branche* certes mais surtout en les écrivant *les uns après les autres*. Et particulièrement en maths, ils n'ont de sens que si **on fait des exercices** ; or les exercices permettent de :
 	- s'approprier le(s) concept(s), et potentiellement *utiliser* des **cas notables**

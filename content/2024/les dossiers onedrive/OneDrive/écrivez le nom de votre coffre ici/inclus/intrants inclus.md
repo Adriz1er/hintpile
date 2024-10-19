@@ -1,3 +1,6 @@
+---
+date: 2024-08-26
+---
 
 - [I] Savoir qu'il existe une connection possible entre zotero (truc pour gérer des articles de recherches (j'utilise pas perso)) et obsidian et qu'elle est expliquée dans cette vidéo https://youtu.be/m-J-v0JdL3w?si=NVpSIHXEjMtrAyMI
 - [I] savoir que le plugin *homepage* permet que la commande : ctrl+maj+! fasse apparaitre une idée aléatoirement

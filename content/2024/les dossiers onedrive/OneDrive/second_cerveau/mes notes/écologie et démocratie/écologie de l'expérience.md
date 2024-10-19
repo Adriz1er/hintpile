@@ -1,3 +1,6 @@
+---
+date: 2024-08-19
+---
 L'expérience humaine se caractérise par deux choses : 
 Premièrement, la première personne (manière de vivre l'expérience) ; ce qui signifie notamment l'individuation ("constitution de la personnalité") est une *transaction* avec "la transformation du monde"(évolution). 
 C'est toute éducation suppose l' "auto-activité". ^447f3d

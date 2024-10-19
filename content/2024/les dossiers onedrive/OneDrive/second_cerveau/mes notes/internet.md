@@ -1,5 +1,6 @@
 ---
-tag:
+tag: 
+date: 2024-08-26
 ---
 ensemble de réseau interconnectés entre eux c'est littéralement un réseau de réseaux, les règles sont normalisés entre eux et non détenu par une personne
 date de création : 69-70

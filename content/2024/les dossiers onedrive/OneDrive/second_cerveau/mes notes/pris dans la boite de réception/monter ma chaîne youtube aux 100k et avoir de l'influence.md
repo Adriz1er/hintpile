@@ -1,6 +1,7 @@
 ---
 tag:
   - objectif_de_1_à_3_ans
+date: 2024-08-19
 ---
 - l'idée est de parler à de plus en plus de gens au fur et à mesure que la chaîne grossit
 - [!] #noté faire du clickbait : faire des minitures et des titres de vidéos qui magnifie le contenu

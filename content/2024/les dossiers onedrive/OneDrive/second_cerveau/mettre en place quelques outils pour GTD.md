@@ -1,3 +1,6 @@
+---
+date: 2024-08-26
+---
 - [x] [[mettre en place le calendrier avec plugin google calendar]] [link](https://todoist.com/showTask?id=7110089791) #todoist %%[todoist_id:: 7110089791]%% ✅ 2023-08-31
 
 - [x] faire statut vérification ✅ 2023-05-17 [link](https://todoist.com/showTask?id=7110089806) #todoist %%[todoist_id:: 7110089806]%%

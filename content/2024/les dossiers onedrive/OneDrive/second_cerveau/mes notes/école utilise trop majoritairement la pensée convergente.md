@@ -1,3 +1,6 @@
+---
+date: 2024-08-26
+---
 **A cause de l'[[utilitarisme]] (sachant que la classe est un groupe avec [[utilitarisme]])  donc utiliser la [[pensée convergente]] est ce qui se passe quand on *mesure* (oui c'est le cas plutôt que de trouver **quelle serait ?** la bonne solution (voir [[pensée divergente]]).
 
 *Littéralement* dans certaines matières la [[pensée convergente]] est ce qui est le plus utile (voir l'[[école utilise trop majoritairement la pensée convergente]]), ce qui représente 95% du processus selon moi.

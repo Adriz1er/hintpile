@@ -1,5 +1,6 @@
 ---
 tags: []
+date: 2024-08-19
 ---
 ## liste des trucs récurrents
 ```tasks

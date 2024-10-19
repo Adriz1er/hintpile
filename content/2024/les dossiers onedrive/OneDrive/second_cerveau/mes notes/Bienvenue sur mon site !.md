@@ -1,6 +1,7 @@
 ---
 dg-publish: true
 dg-home: true
+date: 2024-08-26
 ---
 Je m'appelle Adrien, et je suis passioné par l'**écriture** de mes notes📝
 

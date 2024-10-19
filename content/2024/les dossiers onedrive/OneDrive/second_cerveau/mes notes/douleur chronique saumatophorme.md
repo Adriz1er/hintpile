@@ -1,6 +1,7 @@
 ---
 MOC:
   - "[[expérience de la douleur]]"
+date: 2024-08-19
 ---
 douleurs invisibles aux medecins et soignants. 
 

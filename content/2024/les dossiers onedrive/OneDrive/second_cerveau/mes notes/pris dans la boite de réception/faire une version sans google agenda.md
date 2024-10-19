@@ -1,8 +1,9 @@
 ---
-tags:
-échéance:
+tags: 
+échéance: 
 priorité: 4
 énergie: 0
+date: 2024-08-19
 ---
 - [X] voir ce qui a été fait  [completion:: 2024-04-26]
 - [x] que template ait bien même headings  [completion:: 2024-05-23]

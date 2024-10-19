@@ -1,10 +1,11 @@
 ---
 quickshare-date: 2024-05-16 09:08:06
-quickshare-url: "https://noteshare.space/note/clw8wsh903712501mw8m8thpw3#Oag1Ods5F0uBxsS/ctxmZxk2xnibc5fYBOHieM239D4"
+quickshare-url: https://noteshare.space/note/clw8wsh903712501mw8m8thpw3#Oag1Ods5F0uBxsS/ctxmZxk2xnibc5fYBOHieM239D4
 aspiration: 
 tag:
   - concept
-cards-deck:
+cards-deck: 
+date: 2024-08-26
 ---
 Vert inattendu car pas rt
 - mettre 2024-2025

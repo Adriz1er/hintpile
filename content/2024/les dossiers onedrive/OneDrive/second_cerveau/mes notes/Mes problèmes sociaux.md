@@ -1,3 +1,6 @@
+---
+date: 2024-08-19
+---
 [[autisme]]
 ___
 - On peut voir quelque chose d'existentiel (référence à [l'existancialisme est un humanisme]) dans mes relations avec les autres et moi-même 

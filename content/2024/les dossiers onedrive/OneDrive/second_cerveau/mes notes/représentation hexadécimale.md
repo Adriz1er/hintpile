@@ -1,5 +1,6 @@
 ---
-tag:
+tag: 
+date: 2024-08-19
 ---
 correspond à la base 16, on l'écrit avec les chiffres et les lettres : ABCDEF
 Pour passer de hexadécimale à du décimal on utilise les puissances de 16

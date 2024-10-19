@@ -1,5 +1,6 @@
 ---
 MOC: []
+date: 2024-08-26
 ---
 Un graphe probabiliste est 
 - un graphe pondéré

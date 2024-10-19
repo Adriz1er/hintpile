@@ -1,3 +1,6 @@
+---
+date: 2024-08-19
+---
 Une application qui calcule en fonction de n'importe quelle fraction et qui repartie pour le nombre de douche, qui peut mettre un report. 
 Elle pourrait aussi arrêter les addictions en répétant des phrases, en résonnant avec des citations. 
 

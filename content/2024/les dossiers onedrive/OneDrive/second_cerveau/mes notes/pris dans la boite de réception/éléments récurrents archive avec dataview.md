@@ -1,3 +1,6 @@
+---
+date: 2024-08-19
+---
 ⚠️ ne pas cocher les [[éléments récurrents archive avec dataview]] dans cette note car la récurrence ne fonctionne pas
 ```dataview
 task

@@ -1,3 +1,6 @@
+---
+date: 2024-08-19
+---
 - [x] faire une liste des éléments avec une date d'échéance ✅ 2023-05-28 [link](https://todoist.com/showTask?id=7110090291) #todoist %%[todoist_id:: 7110090291]%%
  ^eb3f3d
  - [x] télécharger reminder sur #tablette et #ordi ✅ 2023-05-26 [link](https://todoist.com/showTask?id=7110090307) #todoist %%[todoist_id:: 7110090307]%%

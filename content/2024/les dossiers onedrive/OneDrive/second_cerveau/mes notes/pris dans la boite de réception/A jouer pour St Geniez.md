@@ -1,10 +1,11 @@
 ---
 quickshare-date: 2024-06-07 19:59:36
-quickshare-url: "https://noteshare.space/note/clx4zr1g65319001mwql8tby29#SVlxK+X68fLC02KMtpGTNAj/oAFJsx2xy9YR+3+cG3M"
-tags:
+quickshare-url: https://noteshare.space/note/clx4zr1g65319001mwql8tby29#SVlxK+X68fLC02KMtpGTNAj/oAFJsx2xy9YR+3+cG3M
+tags: 
 échéance: 2024-07-15
 priorité: 0
 énergie: 4
+date: 2024-08-25
 ---
 - [X] faire l'étude vraiment adagio en prenant le temps et l'apprendre par cœur  [completion:: 2024-08-02]
 

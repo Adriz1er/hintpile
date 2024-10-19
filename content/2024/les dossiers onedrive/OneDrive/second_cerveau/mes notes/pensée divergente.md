@@ -1,5 +1,6 @@
 ---
 dg-publish: true
+date: 2024-08-19
 ---
 C'est une *méthode* de pensée qui se produit dans un cadre **spontané** et **non-dirigé** ; on peut alors noter qu'une idée *créative* arrive aléatoirement. 
 Les idées issues de ce mode de pensée s'organisent grâce à la [[pensée convergente]], ce qui fait qu'elle n'ait utile quand dans le [[processus de création]] ; ce qui crée un [[espace créatif]]

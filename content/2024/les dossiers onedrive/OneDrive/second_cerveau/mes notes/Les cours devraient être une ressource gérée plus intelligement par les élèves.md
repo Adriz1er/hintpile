@@ -1,3 +1,6 @@
+---
+date: 2024-08-26
+---
 #🌱 [[problèmes auxquels l'éducation nationale se doit de faire face]]
 ___
 À l'école on ne fait que reformuler ce que dit le professeur - donc autrement dit sans prendre en compte la [[moral]]e n'importe quelle information qui est dans le programme - donc [[école utilise trop majoritairement la pensée convergente]] (voir aussi [[la connaissance nécessite d'être intégrée]])

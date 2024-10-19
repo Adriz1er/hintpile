@@ -1,3 +1,6 @@
+---
+date: 2024-08-19
+---
 
 programme qui tourne, et toujours exécuté par un processus père ; et représenté par un numéro `pid` ^98babb
 

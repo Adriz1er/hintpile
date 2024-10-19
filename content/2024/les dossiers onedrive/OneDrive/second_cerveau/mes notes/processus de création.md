@@ -1,3 +1,6 @@
+---
+date: 2024-08-19
+---
 Le processus de création se caractérise (du moins tel que nous le connaissons) par des stades mentaux :
 1. prélude et aube : trouvaille de plusieurs savoirs
 2. découverte de nouveaux endroits : utilisation de la *[[pensée divergente]]*

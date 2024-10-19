@@ -1,3 +1,6 @@
+---
+date: 2024-08-19
+---
 [[psychologie]]
 ___
 1. La stratégie d'intérêt est la stratégie qui a le plus de chance de satisfaire ses intérêts

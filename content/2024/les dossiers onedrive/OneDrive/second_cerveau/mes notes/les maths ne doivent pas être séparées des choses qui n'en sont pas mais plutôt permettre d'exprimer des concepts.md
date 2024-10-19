@@ -1,5 +1,6 @@
 ---
 dg-publish: true
+date: 2024-08-26
 ---
 Là où certains *concepts* comme la *relation de Chasles* se retrouvent dans plusieurs **branches des maths**, mais puisqu'[[organiser les concepts mathématiques dans une structure organique]] alors on peut ***caractériser*** ce concept (notamment **avec** des *méthodes*). Mais cela montre que c'est possible pour n'importe quel concept "*méta-mathématiques*". Cela pourrait rapprocher *considérablement* les différentes **branches de mathématiques**, car cela permet une *nouvelle reflexion* (*sur les mathématiques*).
 

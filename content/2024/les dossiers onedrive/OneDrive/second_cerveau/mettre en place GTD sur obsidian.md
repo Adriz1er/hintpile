@@ -1,3 +1,6 @@
+---
+date: 2024-08-26
+---
 
 - [ ] [[mettre en place les critères d'action rapide]] [link](https://todoist.com/showTask?id=7110090466) #todoist %%[todoist_id:: 7110090466]%%
 - [ ] [[faire une page d'accueil où il y a juste les derniers fichiers ouverts sur mobile]] 🔽  [link](https://todoist.com/showTask?id=7110090475) #todoist %%[todoist_id:: 7110090475]%%

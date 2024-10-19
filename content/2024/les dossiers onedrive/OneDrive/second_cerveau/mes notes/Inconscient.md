@@ -1,3 +1,6 @@
+---
+date: 2024-08-19
+---
 - Pour Descartes et Platon l'inconscient c'est le corps
 - passions - pour les stoïciens et Platon
 - social collectif - Carl Jung et Durkheim 

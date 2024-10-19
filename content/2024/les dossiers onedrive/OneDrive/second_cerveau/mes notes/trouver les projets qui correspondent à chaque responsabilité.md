@@ -1,3 +1,6 @@
+---
+date: 2024-08-26
+---
 - [x] parcourir les intrants restant sur notion ✅ 2023-06-10 [link](https://todoist.com/showTask?id=7110090831) #todoist %%[todoist_id:: 7110090831]%%
 
 

@@ -1,5 +1,6 @@
 ---
 aspiration: []
+date: 2024-08-26
 ---
 
 utile pour aller au delà de 100 Mhz.

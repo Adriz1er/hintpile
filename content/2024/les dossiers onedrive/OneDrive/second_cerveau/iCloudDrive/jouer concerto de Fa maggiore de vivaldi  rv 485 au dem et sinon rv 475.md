@@ -4,5 +4,6 @@ quickshare-url: https://noteshare.space/note/cln79dgfy325001mwdijen3u1#uF2VyZIWH
 tags: 
 énergie: 0
 priorité: 0
+date: 2024-08-19
 ---
 - [x] réussir triples doubles avec grands intervalles  [completion:: 2023-11-25]

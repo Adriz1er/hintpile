@@ -1,3 +1,6 @@
+---
+date: 2024-08-24
+---
 
 # faire le ménage dans mes appartements
 - [X] brosser le sol de la douche  [repeat:: every 6 weeks]  [start:: 2024-05-19]  [completion:: 2024-05-20] 🔒 2024-06-28 🕸️ [[les dossiers onedrive/OneDrive/second_cerveau/mes notes/pris dans la boite de réception/faire le ménage dans mes appartements et de la table de ping pong#faire le ménage dans mes appartements]]

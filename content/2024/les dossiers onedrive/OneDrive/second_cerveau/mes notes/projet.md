@@ -1,5 +1,6 @@
 ---
 aspiration: []
+date: 2024-08-19
 ---
 coût, qualité, délai (moins d'un an en gtd)
 

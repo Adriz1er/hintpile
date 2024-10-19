@@ -1,3 +1,6 @@
+---
+date: 2024-08-19
+---
 - Mise en ligne de modifications  : Dans le menu Branche  ![[les dossiers onedrive/OneDrive/second_cerveau/mes notes/pris dans la boite de réception/Pasted image 20240605172543.png|75]] , mettre un nom pour la modification apportée ![[les dossiers onedrive/OneDrive/second_cerveau/mes notes/pris dans la boite de réception/Pasted image 20240605173605.png|300]]
 - Récupération de modifications : Dans le menu Branche  ![[les dossiers onedrive/OneDrive/second_cerveau/mes notes/pris dans la boite de réception/Pasted image 20240605172543.png|75]] , dans le sous-menu exécution de pull : ![[les dossiers onedrive/OneDrive/second_cerveau/mes notes/pris dans la boite de réception/Pasted image 20240605173338.png|300]]
 ## 2. Etiqueter pour ajouter des numéros de versions

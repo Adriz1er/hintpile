@@ -1,8 +1,9 @@
 ---
-tags:
+tags: 
 échéance: 
 énergie: 0
 priorité: 0
+date: 2024-08-19
 ---
 
 - [X] importer metadata hider  [completion:: 2024-06-25]

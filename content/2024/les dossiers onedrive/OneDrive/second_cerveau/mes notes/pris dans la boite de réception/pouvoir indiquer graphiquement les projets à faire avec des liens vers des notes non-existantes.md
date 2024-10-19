@@ -1,3 +1,6 @@
+---
+date: 2024-08-19
+---
 - [X] semble inutile 📅 2023-07-18  [completion:: 2024-03-02]
 # enlever toutes les notes qui n'en sont pas
 - passer en revue la vue graphique en ouvrant les notes qui ont des liens vers des notes non-existantes

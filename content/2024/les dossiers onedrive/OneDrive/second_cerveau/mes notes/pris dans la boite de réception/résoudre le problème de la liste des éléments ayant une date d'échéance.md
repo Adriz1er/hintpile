@@ -1,3 +1,6 @@
+---
+date: 2024-08-26
+---
 
 dv.taskList(dv.pages("").file.tasks .where(t => !t.completed))
 dv.el("horizon", "horizon");

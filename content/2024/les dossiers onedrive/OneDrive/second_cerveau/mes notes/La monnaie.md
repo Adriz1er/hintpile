@@ -1,3 +1,6 @@
+---
+date: 2024-08-19
+---
 On peut la comprendre via les ressources.
 La monnaie représente des ressources 
 

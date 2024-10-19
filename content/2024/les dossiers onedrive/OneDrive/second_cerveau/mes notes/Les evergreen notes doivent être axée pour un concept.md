@@ -1,3 +1,6 @@
+---
+date: 2024-08-19
+---
 #🌱 
 ___
 Afin qu'il y ait suffisamment de pression pour que la note vise le concept [[le titre des evergreen notes doit être guidé par la note]]. 

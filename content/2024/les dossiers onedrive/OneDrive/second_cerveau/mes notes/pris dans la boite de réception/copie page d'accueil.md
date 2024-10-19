@@ -1,3 +1,6 @@
+---
+date: 2024-08-19
+---
 ```button
 name saisir un intrant
 type command

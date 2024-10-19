@@ -1,3 +1,6 @@
+---
+date: 2024-08-26
+---
 
 ___
 Est-ce que la médiane pourrait mesurer plus le potentiel des élèves ? 

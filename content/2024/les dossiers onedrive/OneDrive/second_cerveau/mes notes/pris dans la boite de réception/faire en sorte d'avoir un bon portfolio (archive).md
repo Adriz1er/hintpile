@@ -1,3 +1,6 @@
+---
+date: 2024-08-26
+---
 
 # faire en sorte d'avoir un bon portfolio
 - [X] enlever le texte en gras au début tout en gardant la lisibilité  [completion:: 2024-05-19] 🔒 2024-06-21 🕸️ 

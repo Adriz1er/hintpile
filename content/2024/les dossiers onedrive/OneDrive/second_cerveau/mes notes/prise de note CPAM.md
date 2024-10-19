@@ -1,5 +1,6 @@
 ---
 aspiration: []
+date: 2024-08-19
 ---
 les entrepreneurs devront sous peine de pénalités :
 - des ouvrages complets et achevés, suivant normes

@@ -1,3 +1,6 @@
+---
+date: 2024-08-26
+---
 source:: [Basic formatting syntax - Obsidian Help](https://help.obsidian.md/Editing+and+formatting/Basic+formatting+syntax)
 
 Obsidian est une application de prise de notes, pour résumer ça particularité : c'est un outil qui permet d'accumuler la réflexion à propos de ce qu'on voudrait faire ou pas.

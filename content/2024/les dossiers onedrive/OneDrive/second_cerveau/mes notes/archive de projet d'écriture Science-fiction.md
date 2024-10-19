@@ -1,3 +1,6 @@
+---
+date: 2024-08-26
+---
 ⬜ Changer pour taskade ★
 ⬜ Rajouter to do liste pour Discord sur salon Discord ★
 ⬜ envoyer lien serveur discord à justine fox ★

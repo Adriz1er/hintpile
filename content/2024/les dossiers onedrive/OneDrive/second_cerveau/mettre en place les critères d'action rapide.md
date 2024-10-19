@@ -1,3 +1,6 @@
+---
+date: 2024-08-26
+---
 - [x] mettre en place contexte avec tags ✅ 2023-05-28 [link](https://todoist.com/showTask?id=7110090208) #todoist %%[todoist_id:: 7110090208]%%
 - [ ] énergie disponible [link](https://todoist.com/showTask?id=7110090223) #todoist %%[todoist_id:: 7110090223]%%
 - [ ] temps disponible ? [link](https://todoist.com/showTask?id=7110090227) #todoist %%[todoist_id:: 7110090227]%%

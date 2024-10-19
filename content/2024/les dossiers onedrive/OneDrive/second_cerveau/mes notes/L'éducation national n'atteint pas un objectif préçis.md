@@ -1,3 +1,6 @@
+---
+date: 2024-08-26
+---
 #🌱   [[problèmes auxquels l'éducation nationale se doit de faire face]] [[psychologie]]
 
 ---

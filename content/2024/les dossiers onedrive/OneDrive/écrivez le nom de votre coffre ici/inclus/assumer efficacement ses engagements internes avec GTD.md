@@ -1,3 +1,6 @@
+---
+date: 2024-08-26
+---
 Lors de projets ^[[[clarifier ses intrants pour passer à la réalité]]] il faut : 
 - [[clarifier les boucles ouvertes]]
 - et le fait que [[les punaises doivent être clarifiées]]

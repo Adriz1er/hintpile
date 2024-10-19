@@ -2,6 +2,7 @@
 date de création: 2023-05-26 09:03
 date de modification: 2023-05-26 09:03
 tag: ""
+date: 2024-08-19
 ---
 - [x] trouver mot de passe dans opéra gx #ordinateur ✅ 2023-05-29 [link](https://todoist.com/showTask?id=7110090620) #todoist %%[todoist_id:: 7110090620]%%
 ## comparée à Epitech

@@ -1,3 +1,6 @@
+---
+date: 2024-08-26
+---
 "Leur rôle est de fournir des choses à vérifier et à revoir" en faisant en sorte "de ne rien avoir omis". Une vérification se réfère donc à des *actions* ^[[[gestion de l'action suivante doit se faire par la clarté]]] et à des *projets* ^[[[clarifier ses intrants pour passer à la réalité]]]. Une vérification est alors un projet *potentiel* (car elle sous-entend des actions). C'est pourquoi la liste de vérification permet de maitriser de façon détendue des situations variées ^[[[autisme]]] - c'est pourquoi il est souvent *nécessaire* de **visualiser** ce que donnera l'objectif quand il sera *atteint* (et quand il est atteint on *jette*
 ou on *archive* ^[[les listes de vérifications sont des rappels créatifs et constructifs#^aa0acc]] la vérification (notamment lors d'une *habitude*)).
 Bien que l'on ait différents niveaux de *résultats* à respecter, et le fait est que certaines vérifications ne sont pas des projets *potentiels* (notamment lorsque l'on a un minimum de *principes* , ou peut-être encore je pense lors de responsabilité plus ou moins comme : "imposé") ; il est tout à fait logique que l'on doive revoir nos vérifications.

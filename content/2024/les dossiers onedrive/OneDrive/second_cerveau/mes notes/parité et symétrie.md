@@ -1,5 +1,6 @@
 ---
 tags: []
+date: 2024-08-19
 ---
 Un ensemble $D$ centré sur $0$ si $\forall t \in D$ et $-t\in D$
 

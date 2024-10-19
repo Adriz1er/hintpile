@@ -1,8 +1,9 @@
 ---
-tags:
+tags: 
 échéance: 2024-09-01
 priorité: 1
 énergie: 0
+date: 2024-09-13
 ---
 - [-] faire tout les tp
 ## faire toutes les cartes anki avec cours, td et tp en comprenant tout

@@ -1,5 +1,6 @@
 ---
 aspiration: []
+date: 2024-08-26
 ---
 Le précâblage est une notion de câblage par anticipation afin d'éviter les extensions au fur et à mesure de l'expression des besoins ; idéalement il est mis en place lors de la construction des locaux ... et même avant idéalement (au niveau de l'architecte)
 

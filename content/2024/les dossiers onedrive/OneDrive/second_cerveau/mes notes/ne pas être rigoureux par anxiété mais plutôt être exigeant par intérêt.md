@@ -1,5 +1,6 @@
 ---
 dg-publish: true
+date: 2024-08-26
 ---
 #🌲  [[philosophie]] [[problèmes auxquels l'éducation nationale se doit de faire face]]
 

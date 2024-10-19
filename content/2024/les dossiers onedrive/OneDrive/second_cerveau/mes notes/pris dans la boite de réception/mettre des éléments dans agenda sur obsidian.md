@@ -3,6 +3,7 @@ tags:
 échéance: 
 énergie: 0
 priorité: 3
+date: 2024-08-19
 ---
 ## pour les éléments dans l'agenda mettre le titre du fichier courant en titre
 - [X] essayer avec cette fonction [tp.file - Templater](https://silentvoid13.github.io/Templater/internal-functions/internal-modules/file-module.html?highlight=new%20file#tpfilecreate_newtemplate-tfile--string-filename-string-open_new-boolean--false-folder-tfolder)  [completion:: 2024-04-26]

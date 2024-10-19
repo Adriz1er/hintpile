@@ -1,3 +1,6 @@
+---
+date: 2024-08-26
+---
 Elle consiste dans le fait que si une *tâche* prend **moins de deux minutes** (donc trop de temps pour y appliquer [[la méthode GTD]]) elle doit être faite ***immédiatement***. Si elle prend plus de 2 minutes alors on peut soit ^[[[clarifier ses intrants pour passer à la réalité]]] :
 - la **déléguer** si on est pas la personne la mieux placée pour *exécuter* la tâche
 - la **reporter** en la déplaçant sur une *liste d'action* (pour la déplacer dans le système)

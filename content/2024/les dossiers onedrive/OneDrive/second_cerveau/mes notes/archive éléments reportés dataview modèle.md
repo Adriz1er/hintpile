@@ -2,7 +2,8 @@
 aspiration: 
 tag:
   - concept
-cards-deck:
+cards-deck: 
+date: 2024-08-19
 ---
 
 ```dataview

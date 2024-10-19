@@ -1,6 +1,7 @@
 ---
 aspiration:
   - mathématiques du signal
+date: 2024-08-19
 ---
 **1. Fonctions puissances**
 

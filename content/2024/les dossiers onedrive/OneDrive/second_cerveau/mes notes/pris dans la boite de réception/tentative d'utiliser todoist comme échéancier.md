@@ -1,5 +1,6 @@
 ---
 aspiration: "[[assumer efficacement ses engagements internes avec GTD]]"
+date: 2024-08-26
 ---
 Pour cela il faut installer le plugin communautaire *ultimate todoist sync*, puis le configurer : 
 - copier coller votre api de todoist que vous pourrez trouver [ici](https://todoist.com/app/settings/integrations/developer), et appuyer sur le bouton qui a l'apparence d'un avion en papier

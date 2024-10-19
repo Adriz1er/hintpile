@@ -1,7 +1,8 @@
 ---
 quickshare-date: 2023-09-30 09:27:34
-quickshare-url: "https://noteshare.space/note/cln5pnfgf075701mwx7sqcwn1#e4UEd3kLkpA1z1RQeWnUN8rJyB0MVVmKbwKA7Ps+LXY"
+quickshare-url: https://noteshare.space/note/cln5pnfgf075701mwx7sqcwn1#e4UEd3kLkpA1z1RQeWnUN8rJyB0MVVmKbwKA7Ps+LXY
 tag: ""
+date: 2024-08-19
 ---
 - [!] faire attention aux demi trous
 - [!] mettre respiration avant flèches

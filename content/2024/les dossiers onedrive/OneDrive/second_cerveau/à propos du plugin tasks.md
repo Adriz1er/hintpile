@@ -1,3 +1,6 @@
+---
+date: 2024-08-26
+---
 - On peut choisir entre le mode emoji et le mode dataview. 
 - Quand on crée une tâche sur obsidian : "- [ ]" (avant de faire à la ligne) le plugin nous propose les options pour tâche (au niveau de là où on écrit). On peut aussi avoir une fenêtre à part entière pour créer une tâche (en faisant ctrl+p et en cherchant Task (ce qui correspond au plugin task)). 
 - Les options sont : 

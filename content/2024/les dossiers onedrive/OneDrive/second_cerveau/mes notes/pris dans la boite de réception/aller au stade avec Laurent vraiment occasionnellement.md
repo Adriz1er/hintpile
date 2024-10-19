@@ -1,3 +1,6 @@
+---
+date: 2024-08-19
+---
 - [x] regarder [Calendrier OGC Nice | Billetterie OGC Nice](https://billetterie.ogcnice.com/fr/match/calendrier)  [repeat:: every 15 days]  [completion:: 2023-10-08]
 - [ ] regarder [Calendrier OGC Nice | Billetterie OGC Nice](https://billetterie.ogcnice.com/fr/match/calendrier)  [repeat:: every 15 days]
 	- [?] si je peux aller au prochain match

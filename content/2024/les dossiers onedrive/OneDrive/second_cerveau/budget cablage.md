@@ -1,3 +1,6 @@
+---
+date: 2024-08-19
+---
 - 25+60+110+30+10=235  -> 70 500€ de RJ45 (x 2 x 150)
 - 4 répartiteurs -> $3 \times 1500= 4 500$ €, avec répartiteur en acier inoxidable : $+2000=6500$
 - comme 1 étage -> 3m : $3(2+1+2+3+4+1) \times 30=1170$ € $+ \text{ main d'oeuvre}$ -> $1170 \times 2=2340$ €

@@ -1,12 +1,10 @@
 ---
-# Metadata used for sync
-id: "4adb9250-5d64-11ed-bec1-6bf0326f48a1"
-title: "une personne avec autisme a un comportement différent"
-# Extracts all tags in content into the metadata
-
-source: "https://youtu.be/qp0HIF3SfI4"
-created_date: "2022-11-06"
-modified_date: "2022-11-15"
+id: 4adb9250-5d64-11ed-bec1-6bf0326f48a1
+title: une personne avec autisme a un comportement différent
+source: https://youtu.be/qp0HIF3SfI4
+created_date: 2022-11-06
+modified_date: 2022-11-15
+date: 2024-08-19
 ---
 [[l'amour pour quelque chose emmène vers un monde intérieur différent]]
 

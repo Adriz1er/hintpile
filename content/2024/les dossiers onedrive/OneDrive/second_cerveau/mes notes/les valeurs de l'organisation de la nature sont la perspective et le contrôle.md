@@ -1,3 +1,6 @@
+---
+date: 2024-09-13
+---
 #👤/David_Allen 
 Sachant que la [[nature]] produit de la *vie*, alors on peut voir ses priorités. 
 *Littéralement* dans une forêt tout les arbres trouve leur place à la fois parmi les autres et à la fois celle qui leur est propre.

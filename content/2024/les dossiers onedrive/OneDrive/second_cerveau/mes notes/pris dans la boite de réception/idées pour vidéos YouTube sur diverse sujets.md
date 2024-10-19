@@ -1,6 +1,7 @@
 ---
 tags: []
 échéance: 2300-01-01T00:00:00.000+01:00
+date: 2024-09-11
 ---
 l'idée est de trouver quelque chose pour après faire au plus vite ce qui semble sous estimé sur Youtube en français
 faire des vidéos avec beaucoup de contenu grace au plugin canva présentation

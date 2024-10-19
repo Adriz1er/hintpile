@@ -2,7 +2,8 @@
 tags: []
 échéance: 
 priorité: 
-énergie:
+énergie: 
+date: 2024-08-19
 ---
 ```tasks 
 is not recurring 

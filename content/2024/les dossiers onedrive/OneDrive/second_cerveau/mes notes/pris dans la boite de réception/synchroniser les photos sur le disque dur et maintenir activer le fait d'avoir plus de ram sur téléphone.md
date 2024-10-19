@@ -1,3 +1,6 @@
+---
+date: 2024-08-27
+---
 et faire en sorte que les photos prennent pas trop de stockage
 à revoir (peut-être) recurrent : 
 ![[faire synchronisation disque dur]]

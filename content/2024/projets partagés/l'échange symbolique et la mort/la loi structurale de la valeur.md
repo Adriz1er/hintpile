@@ -1,3 +1,6 @@
+---
+date: 2024-04-13
+---
 Elle forme un code qui donne une valeur que ce soit aux signes ou signifiants.
 Ce qui provoque l'indétermination par un agencement général des choses, bien qu'elle fonctionne avec le capital
 Ce code c'est la *simulation* générale des choses, ce qui signifie que parler de signifiant et de signifié n'a plus autant d'intérêt que ça devrait l'être.

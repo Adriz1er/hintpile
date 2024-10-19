@@ -1,3 +1,6 @@
+---
+date: 2024-08-26
+---
 voici les différents statuts (qui sont aussi configurés dans le plugin task (évidemment sans le tag #noté)) et l'utilisation que j'en fait pour chacun (ceux qui sont en anglais je les utilise pas personnellement, ils sont à la fin) :
 - [ ] action #noté
 - [x] vérification terminée #noté

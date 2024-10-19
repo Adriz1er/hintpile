@@ -1,3 +1,6 @@
+---
+date: 2024-08-19
+---
 #🌱 
 ___
 - éviter le phénomène de la page blanche. 

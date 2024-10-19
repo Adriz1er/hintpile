@@ -1,8 +1,9 @@
 ---
-tags:
+tags: 
 échéance: 
 priorité: 0
 énergie: 0
+date: 2024-08-19
 ---
 - [X] faire en sorte que ça demande le statut de la tache avec le modal de TC  [completion:: 2024-02-27]
 - [X] faire en sorte que le bouton pour nouvelle action et nouveau sous-projet dans note quotidienne mette en date de start la date du fichier et voir pour le mettre à la fin  [completion:: 2024-02-27]

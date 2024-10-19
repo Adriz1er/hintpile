@@ -1,5 +1,6 @@
 ---
-tag:
+tag: 
+date: 2024-08-19
 ---
 tous les [[fichiers et répertoires#répertoires|répertoires]] et [[fichiers et répertoires#fichiers|fichiers]], et le tout premier est `/`
 L'arborescence Linux regroupe : 

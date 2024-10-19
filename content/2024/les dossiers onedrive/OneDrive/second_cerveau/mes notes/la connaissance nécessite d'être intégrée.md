@@ -1,3 +1,6 @@
+---
+date: 2024-08-19
+---
 La connaissance nécessite d'être *intégrée* ^[[[boussole de zettelkasten]]] ^5d43e0
 (voir aussi [[Les evergreen notes doivent être liées à ce qu'on pense]]), et pas de s'ajouter comme si on ajoutait une couche de crème sur la pâte d'un gateau.
 

@@ -1,3 +1,6 @@
+---
+date: 2024-08-26
+---
 #☀️ 
 ___
 Une phrase positive fait plus référence à un concept, *si par exemple* je dis pose ton verre ici ça aura plus de sens que de dire ne pose pas ton verre là. On invite à la construction mentale.

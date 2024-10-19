@@ -1,5 +1,8 @@
 ---
-aspiration: [[avoir une moyenne de minimum 17,5 sur 20 à chaque semestre afin rentrer dans une très bonne école d'ingénieur#réussir l'évaluation sur linux et algorithmique]]
+aspiration:
+  - - avoir une moyenne de minimum 17
+    - 5 sur 20 à chaque semestre afin rentrer dans une très bonne école d'ingénieur#réussir l'évaluation sur linux et algorithmique
+date: 2024-08-19
 ---
 liste d'actions à réaliser pour effectuer un traitement
 

@@ -1,3 +1,6 @@
+---
+date: 2024-08-26
+---
 Le fait est que l'on doit [[clarifier les boucles ouvertes]], et le fait est que la majorité des tâches amènent à des projets ^[[[clarifier ses intrants pour passer à la réalité]]].
 
 Donc pour [[avoir l'esprit clair nous fait réagir de façon efficace et appropriée]] (ce qui mène à quelque chose sans [[stress]]), alors on ==doit== définir pour se **libérer l'esprit** : 

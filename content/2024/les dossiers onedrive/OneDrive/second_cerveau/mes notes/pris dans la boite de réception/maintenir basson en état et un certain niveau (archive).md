@@ -1,3 +1,6 @@
+---
+date: 2024-08-24
+---
 
 # maintenir basson en état et un certain niveau
 - [X] nettoyer extérieur basson au chiffon  [repeat:: every 7 days when done]  [start:: 2024-05-07]  [completion:: 2024-05-07] 🔒 2024-05-12 🕸️ [[maintenir basson en état et un certain niveau#maintenir basson en état et un certain niveau]]

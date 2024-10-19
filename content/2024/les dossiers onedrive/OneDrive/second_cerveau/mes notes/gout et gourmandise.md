@@ -1,5 +1,6 @@
 ---
 MOC: []
+date: 2024-08-26
 ---
 # gout
 - appréciation

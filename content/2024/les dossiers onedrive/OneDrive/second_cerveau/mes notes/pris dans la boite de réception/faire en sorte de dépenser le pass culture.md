@@ -1,9 +1,10 @@
 ---
 quickshare-date: 2024-04-18 15:57:20
-quickshare-url: "https://noteshare.space/note/clv5b2w7t2135401mw3j82logp#Us3ymswXqcRQRump4argDtWuL8xxrZ9tFz8VFYj8k6w"
+quickshare-url: https://noteshare.space/note/clv5b2w7t2135401mw3j82logp#Us3ymswXqcRQRump4argDtWuL8xxrZ9tFz8VFYj8k6w
 date de création: 2023-08-09 11:58
 date de modification: 2023-08-09 11:58
 tag: ""
+date: 2024-08-24
 ---
 - [I] avoir quelque chose à dépenser dans de la culture #noté 
 # acheter tout ce qui pourrait me plaire d'Asimov

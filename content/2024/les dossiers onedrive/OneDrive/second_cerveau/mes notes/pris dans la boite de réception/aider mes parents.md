@@ -3,6 +3,7 @@ tags: []
 échéance: 2300-01-01
 priorité: 0
 énergie: 0
+date: 2024-09-06
 ---
 - [X] regarder plannings pour trouver un moment pour faire à manger et demander à maman de le faire ce jour-là  [repeat:: every 7 days when done]  [start:: 2024-04-22]  [completion:: 2024-04-22]
 - [X] Demander à Faire à manger  [repeat:: every 7 days]  [start:: 2024-04-29]  [completion:: 2024-04-29]
