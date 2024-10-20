@@ -1,5 +1,5 @@
 ---
-date: 2024-10-06
+date: 2024-10-20
 ---
 On peut voir que les caractères (marqués sur la partition par le *compositeur*) sont souvent associés à des *tempi* (pluriel de tempo), par exemple : *allegro con fuoco*
 L'**idée** du compositeur est issue d'une [[pensée divergente]] puis une [[pensée convergente]], ensuite la **manière dont va jouer** le musicien est produite une [[pensée divergente]] puis une [[pensée convergente]] ; c'est ainsi que le musicien doit se l'***approprier*** donc avoir ***sa* propre idée**, pour le musicien et le compositeur cela constitue ce que j'appelle un [[espace créatif]].
@@ -22,7 +22,7 @@ Ce que j'appelle le *phrasé global* c'est la cohérence de phrasés voisins (qu
 2. Le cohérence de marquage
 3. la différence de marquage entre les phrasés
 
-Je suggère de noter ça avec deux numéros (entre 1 et 4 généralement). Et un autre avec un si c'est une courbe vers le haut et deux si c'est vers le bas.
+Je suggère de noter juste des bâtons pour indiquer chaque phrasé.
 
 Quelques trucs que j'ai remarqué en vrac :
  - Je suis pas sur mais je pense que les vents ont tendance à être horizontal et les cordes verticales au niveau flèche.
@@ -31,3 +31,5 @@ Quelques trucs que j'ai remarqué en vrac :
 ___
 ### trucs que je ne fais plus
 Je note la durée des notes (*c* (, *mc*, (*m*) , *ml*,) *l*), et leur résonnance avec les accents ( $\cdot$ , ^ , v , - ) ; cela constitue pour moi la *ponctuation de la musique*. tendance à utiliser la combinaison *l* avec $\cdot$ et *c* avec *-*.
+
+Noter phrasé global avec deux numéros (entre 1 et 4 généralement). Et un autre avec un si c'est une courbe vers le haut et deux si c'est vers le bas.
