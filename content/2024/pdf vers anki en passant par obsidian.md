@@ -1,11 +1,11 @@
 ---
-date: 2024-10-17
+date: 2024-10-22
 ---
 - ouvrir le pdf sur word, activer la modification, enregistrer sous dans le dossier où on pourra envoyer de obsidian à anki
 - installer pandoc
 - installer obsidian , puis dans ses paramètres installer le module export_to_anki
 	- installer anki
-- executer : `pandoc -t markdown --extract-media='.' entrée.docx -o output.md`
+- executer : `pandoc -t markdown --extract-media='./output' entrée.docx -o output.md`
 - faire un modèle sur obsidian avec comme contenu : 
 END
 START

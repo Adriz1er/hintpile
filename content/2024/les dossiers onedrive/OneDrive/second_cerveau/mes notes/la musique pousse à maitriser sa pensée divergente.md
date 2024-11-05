@@ -1,5 +1,5 @@
 ---
-date: 2024-10-20
+date: 2024-10-23
 ---
 On peut voir que les caractères (marqués sur la partition par le *compositeur*) sont souvent associés à des *tempi* (pluriel de tempo), par exemple : *allegro con fuoco*
 L'**idée** du compositeur est issue d'une [[pensée divergente]] puis une [[pensée convergente]], ensuite la **manière dont va jouer** le musicien est produite une [[pensée divergente]] puis une [[pensée convergente]] ; c'est ainsi que le musicien doit se l'***approprier*** donc avoir ***sa* propre idée**, pour le musicien et le compositeur cela constitue ce que j'appelle un [[espace créatif]].
@@ -16,19 +16,19 @@ J'utilise souvent des flèches en forme de paraboles.
 Mais au delà de tout ça, dans la pratique cela implique notamment deux points qui sont :
 * la mémoire est limitée
 * l'objectif général est de maintenir entre toutes les phases un discours clair et que ces phrases soient appropriées au discours que nécessite l'interprétation du morceau et à la liaison entre les phrases
-### phrasé global et particularités des cordes (frottées, pincées, effleurées...)
-Ce que j'appelle le *phrasé global* c'est la cohérence de phrasés voisins (qui sont littéralement à côté dans la partition), elle peut être exprimée en jouant entre les phrasés sur :
+### cohérence de phrasés voisins
+Ce que j'appelle la *cohérence de phrasés voisins* sont les phrasés littéralement à côté dans la partition, elle peut être exprimée en jouant entre les phrasés sur :
 1. le marquage du phrasé global
-2. Le cohérence de marquage
+2. la cohérence de marquage
 3. la différence de marquage entre les phrasés
 
 Je suggère de noter juste des bâtons pour indiquer chaque phrasé.
-
+___
+#### particularités des cordes (frottées, pincées, effleurées...)
 Quelques trucs que j'ai remarqué en vrac :
  - Je suis pas sur mais je pense que les vents ont tendance à être horizontal et les cordes verticales au niveau flèche.
  - le phrasé est impacté si on tire ou on pousse sur des cordes frottées
 	- Les cordes frottées ont tendance à faire une levée avec parabole vers le haut (qui monte puis descend)
-___
 ### trucs que je ne fais plus
 Je note la durée des notes (*c* (, *mc*, (*m*) , *ml*,) *l*), et leur résonnance avec les accents ( $\cdot$ , ^ , v , - ) ; cela constitue pour moi la *ponctuation de la musique*. tendance à utiliser la combinaison *l* avec $\cdot$ et *c* avec *-*.
 

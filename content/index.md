@@ -1,6 +1,6 @@
 ---
 title: Bienvenue dans l'atlas de mes idées
-date: 2024-10-12
+date: 2024-10-20
 ---
 Hellooooo !
 
