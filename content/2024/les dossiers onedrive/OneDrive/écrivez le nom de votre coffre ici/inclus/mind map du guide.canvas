@@ -1,0 +1,26 @@
+{
+	"nodes":[
+		{"id":"ef6e3be3f2752817","x":840,"y":0,"width":640,"height":780,"type":"file","file":"écrit avec longform/méga guide pour utiliser obsidian comme son second cerveau/guide/la prise de notes organique.md"},
+		{"id":"4178a6eb0aee5198","x":840,"y":-520,"width":520,"height":423,"type":"file","file":"écrit avec longform/méga guide pour utiliser obsidian comme son second cerveau/guide/structure organique.md"},
+		{"id":"82485ac003a513ba","x":200,"y":-520,"width":480,"height":400,"type":"file","file":"écrit avec longform/méga guide pour utiliser obsidian comme son second cerveau/guide/clarifier les boucles ouvertes.md"},
+		{"id":"32f8f5a815f8fe46","x":-400,"y":-520,"width":480,"height":400,"type":"file","file":"écrit avec longform/méga guide pour utiliser obsidian comme son second cerveau/guide/les punaises doivent être clarifiées.md"},
+		{"id":"67f50d8ee69a4270","x":0,"y":100,"width":560,"height":580,"type":"file","file":"écrit avec longform/méga guide pour utiliser obsidian comme son second cerveau/guide/faire ses premiers pas dans obsidian.md"},
+		{"id":"116c16795dfdd6f8","x":-120,"y":-1040,"width":400,"height":400,"type":"file","file":"écrit avec longform/méga guide pour utiliser obsidian comme son second cerveau/guide/avoir l'esprit clair nous fait réagir de façon efficace et appropriée.md"},
+		{"id":"4ab31d3d1a05e3a1","x":-120,"y":-1600,"width":400,"height":400,"type":"file","file":"écrit avec longform/méga guide pour utiliser obsidian comme son second cerveau/guide/la technique devant la porte.md"},
+		{"id":"fd872fbf14be592f","x":720,"y":-1400,"width":640,"height":680,"type":"file","file":"écrit avec longform/méga guide pour utiliser obsidian comme son second cerveau/guide/la règle des deux minutes.md"},
+		{"id":"4c1bfcc4334b8c34","x":-720,"y":-1040,"width":400,"height":400,"type":"file","file":"écrit avec longform/méga guide pour utiliser obsidian comme son second cerveau/guide/la méthode GTD.md"},
+		{"id":"b9d1147ba4defdb1","x":-1200,"y":-1600,"width":400,"height":400,"type":"file","file":"écrit avec longform/méga guide pour utiliser obsidian comme son second cerveau/guide/saisir ce qui est nouveau dans une boite de reception avec GTD.md"},
+		{"id":"03ad175614485982","x":780,"y":-1840,"width":520,"height":360,"type":"file","file":"écrit avec longform/méga guide pour utiliser obsidian comme son second cerveau/guide/effet d'incubation.md"}
+	],
+	"edges":[
+		{"id":"cd0104c6d435ff65","fromNode":"67f50d8ee69a4270","fromSide":"right","toNode":"ef6e3be3f2752817","toSide":"left"},
+		{"id":"84568e342b756141","fromNode":"4178a6eb0aee5198","fromSide":"left","toNode":"82485ac003a513ba","toSide":"right"},
+		{"id":"4bbb7a5a0ba2b262","fromNode":"4178a6eb0aee5198","fromSide":"bottom","toNode":"32f8f5a815f8fe46","toSide":"bottom"},
+		{"id":"1ba0a5a0aff5e36c","fromNode":"82485ac003a513ba","fromSide":"top","toNode":"116c16795dfdd6f8","toSide":"right"},
+		{"id":"d6a0667b3fac3d5f","fromNode":"32f8f5a815f8fe46","fromSide":"top","toNode":"116c16795dfdd6f8","toSide":"bottom"},
+		{"id":"984f5c168f67401f","fromNode":"116c16795dfdd6f8","fromSide":"top","toNode":"4ab31d3d1a05e3a1","toSide":"bottom"},
+		{"id":"8d05e068b62fe52c","fromNode":"4c1bfcc4334b8c34","fromSide":"right","toNode":"116c16795dfdd6f8","toSide":"left"},
+		{"id":"c2e79da8dbf8ee50","fromNode":"b9d1147ba4defdb1","fromSide":"right","toNode":"4c1bfcc4334b8c34","toSide":"top"},
+		{"id":"8942fab252145a23","fromNode":"b9d1147ba4defdb1","fromSide":"top","toNode":"03ad175614485982","toSide":"left"}
+	]
+}

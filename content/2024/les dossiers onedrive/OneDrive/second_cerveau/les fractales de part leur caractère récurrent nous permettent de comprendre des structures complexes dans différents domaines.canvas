@@ -1,0 +1,36 @@
+{
+	"nodes":[
+		{"type":"group","id":"aab69e954d9aa585","x":1120,"y":-560,"width":1880,"height":2640,"label":"développement"},
+		{"type":"group","id":"0fd8cd301505d6ba","x":-260,"y":-560,"width":1360,"height":1420,"label":"intro"},
+		{"type":"file","file":"cours lycée/grand oral de maths/ensemble connexe.md","id":"953c7a4b3b95cb69","x":3560,"y":-540,"width":400,"height":400},
+		{"type":"file","file":"cours lycée/grand oral de maths/fractale.md","id":"a91773c7867ca14a","x":0,"y":-540,"width":400,"height":400},
+		{"type":"file","file":"cours lycée/grand oral de maths/différence entre fractale déterministe et fractale stochastique.md","id":"755495f77ebbbcd6","x":0,"y":-80,"width":400,"height":400},
+		{"type":"text","text":"","id":"3cc628703898d4a0","x":-920,"y":-540,"width":560,"height":660},
+		{"type":"file","file":"cours lycée/grand oral de maths/fractale récurrente.md","id":"d622c43f9e05086b","x":-240,"y":400,"width":640,"height":440},
+		{"type":"file","file":"cours lycée/grand oral de maths/les fractales récurrentes s'appliquent à de nombreux domaines.md","id":"36ff63ad2cf1af0f","x":400,"y":1760,"width":400,"height":400},
+		{"type":"file","file":"cours lycée/grand oral de maths/Les fractales peuvent nous permettre de comprendre en détail les structures naturelles.md","id":"2954e8e7bec7d3a0","x":1200,"y":1560,"width":400,"height":400},
+		{"type":"file","file":"la dimension fractale.md","id":"705db7fd010df451","x":1200,"y":920,"width":400,"height":400},
+		{"type":"file","file":"cours lycée/grand oral de maths/ensemble de Mandelbrot.md","id":"ce793e5f1605c0fe","x":1200,"y":120,"width":400,"height":400},
+		{"type":"file","file":"cours lycée/grand oral de maths/histoire de la découverte des fractales par Benoit Mandelbrot.md","id":"978def761092aebf","x":1400,"y":-540,"width":400,"height":400},
+		{"type":"file","file":"cours lycée/grand oral de maths/Les fractales peuvent modéliser le phénomène de turbulence en physique.md","id":"831141909a19b652","x":1800,"y":1560,"width":400,"height":400},
+		{"type":"file","file":"cours lycée/flocon de Koch.md","id":"08af3cc9b31f78e5","x":2120,"y":840,"width":400,"height":400},
+		{"type":"file","file":"cours lycée/grand oral de maths/les points de l'ensemble de Mandelbrot sont connexes dans celui de Julia.md","id":"ee1dce117237d71c","x":3160,"y":-140,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"7837868a14a25ca4","fromNode":"978def761092aebf","fromSide":"right","toNode":"ce793e5f1605c0fe","toSide":"right","label":"première fractale définit par le mot fractale"},
+		{"id":"ed2f6195a722ff01","fromNode":"a91773c7867ca14a","fromSide":"bottom","toNode":"d622c43f9e05086b","toSide":"top"},
+		{"id":"2d5a95f230e673bc","fromNode":"a91773c7867ca14a","fromSide":"bottom","toNode":"755495f77ebbbcd6","toSide":"top"},
+		{"id":"1926f9c2efa508d1","fromNode":"755495f77ebbbcd6","fromSide":"right","toNode":"08af3cc9b31f78e5","toSide":"left","label":"exemple"},
+		{"id":"05bcb4aeb32c9859","fromNode":"d622c43f9e05086b","fromSide":"right","toNode":"ce793e5f1605c0fe","toSide":"left","label":"exemple"},
+		{"id":"bfa08f53736bbcd5","fromNode":"978def761092aebf","fromSide":"bottom","toNode":"08af3cc9b31f78e5","toSide":"top","label":"avant (temps)"},
+		{"id":"19d209a18a1cd205","fromNode":"ce793e5f1605c0fe","fromSide":"right","toNode":"ee1dce117237d71c","toSide":"left","label":"propriété notable"},
+		{"id":"7196937318bd359d","fromNode":"978def761092aebf","fromSide":"right","toNode":"ee1dce117237d71c","toSide":"top","label":"découle du fait que Julia est un des mathématicien qui a créé l'ensemble de Mandelbrot"},
+		{"id":"f7a03e8641916aa3","fromNode":"953c7a4b3b95cb69","fromSide":"left","toNode":"ee1dce117237d71c","toSide":"right"},
+		{"id":"67079d7565ae7a8b","fromNode":"2954e8e7bec7d3a0","fromSide":"right","toNode":"831141909a19b652","toSide":"left","label":"exemple"},
+		{"id":"6f4cca2452e4a885","fromNode":"978def761092aebf","fromSide":"left","toNode":"a91773c7867ca14a","toSide":"right"},
+		{"id":"fded2f72d0fe1911","fromNode":"2954e8e7bec7d3a0","fromSide":"left","toNode":"36ff63ad2cf1af0f","toSide":"top"},
+		{"id":"d4eb5c1f2d010bb3","fromNode":"d622c43f9e05086b","fromSide":"bottom","toNode":"705db7fd010df451","toSide":"top"},
+		{"id":"fff3437b2a6ff850","fromNode":"705db7fd010df451","fromSide":"bottom","toNode":"2954e8e7bec7d3a0","toSide":"top"},
+		{"id":"0902b307f4fe6ae2","fromNode":"705db7fd010df451","fromSide":"right","toNode":"08af3cc9b31f78e5","toSide":"left"}
+	]
+}
